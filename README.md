@@ -1,3 +1,9 @@
+vue.js準備
+1.nodeインストール
+2.npm i -g @vue/cli (vue --versionで確認する)
+3.vue ui
+
+
 # memopad
 
 ## Project setup
